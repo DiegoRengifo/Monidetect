@@ -1,3 +1,0 @@
-"""
-MoniDetect Django Application Package.
-"""
